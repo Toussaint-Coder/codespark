@@ -4,6 +4,11 @@
 @tailwind components;
 @tailwind utilities;
 
+.bg-ctsSection{
+  background: 
+    linear-gradient(135deg, #f6f7f869 0%, #ea580c 100%),
+    url('./assets/digital.jpg') center/cover no-repeat;
+}
 
 * {
   margin: 0;
